@@ -14,6 +14,6 @@ const App = () => {
   );
 }
 
-// Take this component's generated HTML and put it on the page (in the DOM)
-// JSX gets transpiled into vanilla JS.
+//Take this component's generated HTML and put it on the page (in the DOM)
+// JsSX gets transpiled into vanilla JS.
 ReactDOM.render(<App />, document.querySelector('.container'));
